@@ -1,0 +1,5 @@
+{
+  "name": "CreatorStudio AI",
+  "description": "A comprehensive YouTube creator companion app powered by Gemini to generate video ideas, scripts, and optimize metadata.",
+  "requestFramePermissions": []
+}
